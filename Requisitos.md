@@ -66,6 +66,18 @@ Lista de los potenciales niveles que se van a desarrollar para la aplicación.
 - Sensores necesarios: Brillo
 - Breve descripción: Habrá un boton de omitir solo visible con el brillo al mínimo
 
+## Level Mira al norte
+- Sensores necesarios : Brújula
+- Breve descripción : En este nivel se le mandará al usuario a mirar al norte y con una tolerancia de 20º cuando este mirando al norte aparecerá en botón de cerrar el ad
+
+## Level Rompe la pared
+- Sensores necesarios : acelerómetro
+- Breve descripción : En este nivel se le pedirá al usuario que agite el teléfono para "derribar" una pared tras la que se esconde el botón de cerrar ad
+## Level saca foto a objeto de color
+
+- Sensores necesarios : Cámara
+- Breve descripción : En este nivel se le pedirá al usuario que haga una foto de un objeto de color x para que aparezca el boton de cerra el ad
+
 
 
 

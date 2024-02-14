@@ -1,6 +1,19 @@
 # Introducción
 Este juego es una parodia de los anuncios comunmente vistos en aplicaciones móviles.
 
+# Funcionalidades
+
+## Iniciar partida.
+- El usuario incia una nueva partida y le comeinzan a servir niveles
+
+## Ver leaderboard
+- El usuario puede ver el leaderboard y la posicion de su record propio
+
+## Servir nivel
+- El sistema teniendo en cuenta los sensores del dispositivo, los niveles superados y los niveles todavía no vistos sirve al usuario un nuevo nivel
+
+## Ver leaderboard personal
+
 # Analisis
 
 En el apartado de Level Design se especifican los niveles a desarrollar, esta lista es modificable y se irá depurando segun avance el proyecto.

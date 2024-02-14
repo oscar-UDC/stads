@@ -3,7 +3,7 @@ Este juego es una parodia de los anuncios comunmente vistos en aplicaciones móv
 
 # Analisis
 
-En el apartado de Level Design se especifican los niveles a desarrollar, esta lista es modificable y se irá depurando segun avanze el proyecto.
+En el apartado de Level Design se especifican los niveles a desarrollar, esta lista es modificable y se irá depurando segun avance el proyecto.
 
 ## Tareas Críticas
 

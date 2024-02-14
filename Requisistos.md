@@ -10,25 +10,24 @@ En el apartado de Level Design se especifican los niveles a desarrollar, esta li
 ### Aplicación
 
 - Planficador de niveles. sistema que se encarga de seleccionar los siguientes niveles en función de los sensores del dispositivo y progreso del juego
+- Sistema de puntuación en base a la dificultad y velocidad de resolución del puzzle
 
 ### Comunicaciones
 
-Ejemplo: funcionalidades indispensables para la operativa (e.g.,
-autenticación, GPS).
-
-- Magnetometro
-- Giroscopio
 
 ## Tareas No Críticas
 
-Dependencias de terceros, fuentes de datos externas (e.g.,
-visualización mapas, cloud).
-
-- Autenticación
-- Leaderboard, Highscore
-- Compartir en redes sociales records
+- Unity. Game engine sobre el que se va a desarrollar los puzzles del juego.
+- Magnetometro. Para puzzles que dependan de la orientación del dispositivo.
+- Giroscopio. Para puzzles que incluyan rotación des dispositivo.
+- Sensor presión atmosferica. Para puzzles que requiran cambios de altitud.
+- Autenticación para recuperar datos del usuario (highscore, logros)
+- Leaderboard para comparar puntuciones entre usuarios
+- Compartir en redes sociales highscores
 
 # Level Design
+
+Lista de los potenciales niveles que se van a desarrollar para la aplicación.
 
 ## Level Placeholder
 - Sensores necesarios: Ninguno

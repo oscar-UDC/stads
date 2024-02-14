@@ -1,5 +1,3 @@
 Bienvenido a la wiki de ScapeTheAds!
 
-ScapeTheAds es una experiencia interactiva. La funcionalidad básica consiste en evitar que explote una bomba, para lo cual solo tendrás que evitar los incontables anuncios y obstáculos en tu camino. ¿Podrás escapar?
-
 Este es juego desarrollado por The Finders™

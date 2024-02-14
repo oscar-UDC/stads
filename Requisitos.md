@@ -24,6 +24,7 @@ En el apartado de Level Design se especifican los niveles a desarrollar, esta li
 
 - Planficador de niveles. sistema que se encarga de seleccionar los siguientes niveles en función de los sensores del dispositivo y progreso del juego
 - Sistema de puntuación en base a la dificultad y velocidad de resolución del puzzle
+- Elemento de fondo (minijuego de la bomba que "explota" si no reseteas el contador pulsando el botón)
 
 ### Comunicaciones
 

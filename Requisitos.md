@@ -15,6 +15,8 @@ Este juego es una parodia de los anuncios comunmente vistos en aplicaciones móv
 ## Servir nivel
 - Como sistema quiero que teniendo en cuenta los sensores del dispositivo, los niveles superados y los niveles todavía no vistos servir al usuario nuevos niveles nivel para mantener al usuario entretenido
 
+## Jugar nivel
+- Como usuario quiero jugar un puzzle para pasar el rato
 
 # Analisis
 

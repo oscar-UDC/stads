@@ -4,15 +4,17 @@ Este juego es una parodia de los anuncios comunmente vistos en aplicaciones móv
 # Funcionalidades
 
 ## Iniciar partida.
-- El usuario incia una nueva partida y le comeinzan a servir niveles
+- Como usuario quiero poder inciar una nueva partida y comenzar a jugar puzzles para divertirme con el juego
 
 ## Ver leaderboard
-- El usuario puede ver el leaderboard y la posicion de su record propio
-
-## Servir nivel
-- El sistema teniendo en cuenta los sensores del dispositivo, los niveles superados y los niveles todavía no vistos sirve al usuario un nuevo nivel
+- Como usuario quiero poder ver el leaderboard y la posicion mi record para competir contra otros jugadores
 
 ## Ver leaderboard personal
+- Como ususario quiero ver mi historial de record personales para ver mi mejoría en el tiempo
+
+## Servir nivel
+- Como sistema quiero que teniendo en cuenta los sensores del dispositivo, los niveles superados y los niveles todavía no vistos servir al usuario nuevos niveles nivel para mantener al usuario entretenido
+
 
 # Analisis
 

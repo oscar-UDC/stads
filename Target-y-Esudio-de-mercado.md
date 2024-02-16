@@ -31,11 +31,11 @@
 - 13% Recursos Humanos
 - 12% Sanitarios
 
-- ¿Quiénes van a ser los potenciales clientes/usuarios?
+## ¿Quiénes van a ser los potenciales clientes/usuarios?
 
-- ¿A quién pretendemos dar servicio?
+## ¿A quién pretendemos dar servicio?
 
-- ¿Creamos valor para alguien? ¿Quiénes?
+## ¿Creamos valor para alguien? ¿Quiénes?
 
 ## Razones para jugar ScapeTheAds
  
@@ -44,13 +44,13 @@
 - Sentirse realizado por completar algo desafiante.
 
 
-- ¿Nos dirigimos a un mercado de masas o a un nicho concreto? ¿Va a afectar esto a la aplicación?
+## ¿Nos dirigimos a un mercado de masas o a un nicho concreto? ¿Va a afectar esto a la aplicación?
 
-Mercado de masas. Esto afectará a la aplicación dado que se requiere la implementación de localización y que sea escalable (leaderboards)
+-Mercado de masas. Esto afectará a la aplicación dado que se requiere la implementación de localización y que sea escalable (leaderboards)
 
-- ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
+## ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
 
-Nuestro cliente perfecto sería aficionado a los juegos casuales y también competitivo, perceptible a comprar objetos de la aplicación como objetos para "revivir" o "ralentizar las ads".
+-Nuestro cliente perfecto sería aficionado a los juegos casuales y también competitivo, perceptible a comprar objetos de la aplicación como objetos para "revivir" o "ralentizar las ads".
 
 # Estudio de mercado.
 

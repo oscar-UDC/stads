@@ -54,18 +54,20 @@
 
 # Estudio de mercado.
 
-- ¿Qué va a hacer que nuestra app no sea fácilmente copiable?
+## ¿Qué va a hacer que nuestra app no sea fácilmente copiable?
 
-Nuestra app tiene planeado implementar minijuegos que emplean los sensores del smartphone, haciendo la experiecia mas interactiva y original.
+- Nuestra app tiene planeado implementar minijuegos que emplean los sensores del smartphone, haciendo la experiecia mas interactiva y original.
 
-- ¿Cómo nos diferenciamos de la competencia?
+# ¿Cómo nos diferenciamos de la competencia?
 
-La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
+-La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
  
-Nuestro juego no es  de los géneros de puzles mas predominantes en movil son de "match 3" y basados en físicas
+-Nuestro juego no es  de los géneros de puzles mas predominantes en movil son de "match 3" y basados en físicas
 
 
-- ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
+## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 
-Para crear relación con los usuarios se ofrecerá una versión básica de la  aplicación de forma gratuita. A parte también se podría recurrir a influencers para promocionar el juego. Para fidelizarlos se cuenta con la originalidad de la aplicación la cual se espera que cree una impresión memorable que rentenga a los usuarios.
+-Para crear relación con los usuarios se ofrecerá una versión básica de la  aplicación de forma gratuita.
+-También se podría recurrir a influencers para promocionar el juego.
+-Como plan de fidelización se cuenta con la originalidad de la aplicación la cual se espera que cree una impresión memorable que rentenga a los usuarios.
 

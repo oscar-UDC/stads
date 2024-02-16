@@ -1,6 +1,7 @@
 # Target (Segmento de mercado)
 
 - Género, edad, estatus socioeconómico.
+Hola
 - ¿Quiénes van a ser los potenciales clientes/usuarios?
 - ¿A quién pretendemos dar servicio?
 - ¿Creamos valor para alguien? ¿Quiénes?

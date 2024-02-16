@@ -46,11 +46,11 @@
 
 ## ¿Nos dirigimos a un mercado de masas o a un nicho concreto? ¿Va a afectar esto a la aplicación?
 
--Mercado de masas. Esto afectará a la aplicación dado que se requiere la implementación de localización y que sea escalable (leaderboards)
+- Mercado de masas. Esto afectará a la aplicación dado que se requiere la implementación de localización y que sea escalable (leaderboards)
 
 ## ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
 
--Nuestro cliente perfecto sería aficionado a los juegos casuales y también competitivo, perceptible a comprar objetos de la aplicación como objetos para "revivir" o "ralentizar las ads".
+- Nuestro cliente perfecto sería aficionado a los juegos casuales y también competitivo, perceptible a comprar objetos de la aplicación como objetos para "revivir" o "ralentizar las ads".
 
 # Estudio de mercado.
 
@@ -60,14 +60,14 @@
 
 # ¿Cómo nos diferenciamos de la competencia?
 
--La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
+- La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
  
--Nuestro juego no es  de los géneros de puzles mas predominantes en movil son de "match 3" y basados en físicas
+- Nuestro juego no es  de los géneros de puzles mas predominantes en movil son de "match 3" y basados en físicas
 
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 
--Para crear relación con los usuarios se ofrecerá una versión básica de la  aplicación de forma gratuita.
--También se podría recurrir a influencers para promocionar el juego.
--Como plan de fidelización se cuenta con la originalidad de la aplicación la cual se espera que cree una impresión memorable que rentenga a los usuarios.
+- Para crear relación con los usuarios se ofrecerá una versión básica de la  aplicación de forma gratuita.
+- También se podría recurrir a influencers para promocionar el juego.
+- Como plan de fidelización se cuenta con la originalidad de la aplicación la cual se espera que cree una impresión memorable que rentenga a los usuarios.
 

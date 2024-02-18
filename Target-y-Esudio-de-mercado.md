@@ -1,35 +1,8 @@
 # Target (Segmento de mercado)
 
-- Género, edad, estatus socioeconómico.
+## Quien es la audiencia
 
-### Género 
- 
-- 65% Femenino
-- 35% Masculino
- 
-### Edad
- 
-- 37% 25 - 34 y/o
-- 31% 35 - 44 y/o
- 
-### Marital Status 
- 
-- 67% Casado
- 
-### Urbanicidad
- 
-- 74% Suburbano
-
-### Educación 
- 
-- 42% Graduado Universitario
- 
-### Occupación:
- 
-- 22% Finanzas
-- 19% Ventas
-- 13% Recursos Humanos
-- 12% Sanitarios
+Según la mayoría de los estudios de demografía, los juegos casuales y de puzzles atraen sobre todo a mujeres de mediana edad. Un (estudio reciente)[https://www.aarki.com/insights/category-insights-casual-puzzle-games-user-demographics] muestra que el 65% de los usuarios de estos juegos son mujeres, y que el 68% tienen entre 25 y 44 años. Además, el estudio revela que el 67% de los jugadores están casados, el 74% residen en zonas suburbanas, el 42% poseen un grado universitario y las profesiones más frecuentes son: finanzas (22%), ventas (19%), recursos humanos (13%) y sanidad (12%).
 
 ## ¿Quiénes van a ser los potenciales clientes/usuarios?
 
@@ -38,15 +11,20 @@
 ## ¿Creamos valor para alguien? ¿Quiénes?
 
 ## Razones para jugar ScapeTheAds
- 
-- Aliviar el estrés
-- Pasando el tiempo
-- Sentirse realizado por completar algo desafiante.
 
+Los juegos de puzles tienen tres beneficios principales para los jugadores: alivian el estrés, ocupan el tiempo y generan satisfacción al resolver desafíos. Nuestro juego aprovechará estos beneficios con las siguientes características:
+
+- Puzles ingeniosos que usan sensores para crear experiencias interactivas y estimulantes.
+- Diseño relajante que combina colores suaves y música ambiental para crear un ambiente tranquilo y agradable.
+- Variedad de niveles y modos de juego que se adaptan a los gustos y al tiempo de cada jugador, ofreciendo opciones para todos los niveles de habilidad y dificultad.
+
+Con estas características, nuestro juego será una opción ideal para los amantes de los puzles, que podrán entretenerse y divertirse con nuestro juego.
 
 ## ¿Nos dirigimos a un mercado de masas o a un nicho concreto? ¿Va a afectar esto a la aplicación?
 
-- Mercado de masas. Esto afectará a la aplicación dado que se requiere la implementación de localización y que sea escalable (leaderboards)
+Como se indica en el siguiente (artículo)[https://www.futuremarketinsights.com/reports/games-and-puzzles-market], Estados Unidos es el principal mercado para los juegos casuales y de puzzles, por lo que es esencial **localizar el juego al inglés**. El mercado chino es el segundo más grande, pero se trata de un mercado difícil de acceder, por lo que se considerará esa opción en un futuro.
+
+Se estima que el número de descargas de este tipo de juegos este año ronda los (4,5 millardos)[https://www.businessofapps.com/data/puzzle-games-market/], lo que supone una caída de casi 1 millardo respecto al año anterior, debido al fin de la pandemia de COVID. Se prevé que el mercado se mantenga estable en torno a esta cifra (**4,5 millardos**). Dado el alto potencial de captar usuarios, los componentes que permiten la interacción de los usuarios, como los servidores que almacenan las clasificaciones, deben ser altamente **escalables**.
 
 ## ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
 

@@ -2,7 +2,7 @@
 
 ## Quien es la audiencia
 
-Según la mayoría de los estudios de demografía, los juegos casuales y de puzzles atraen sobre todo a mujeres de mediana edad. Un (estudio reciente)[https://www.aarki.com/insights/category-insights-casual-puzzle-games-user-demographics] muestra que el 65% de los usuarios de estos juegos son mujeres, y que el 68% tienen entre 25 y 44 años. Además, el estudio revela que el 67% de los jugadores están casados, el 74% residen en zonas suburbanas, el 42% poseen un grado universitario y las profesiones más frecuentes son: finanzas (22%), ventas (19%), recursos humanos (13%) y sanidad (12%).
+Según la mayoría de los estudios de demografía, los juegos casuales y de puzzles atraen sobre todo a mujeres de mediana edad. Un [estudio reciente](https://www.aarki.com/insights/category-insights-casual-puzzle-games-user-demographics) muestra que el 65% de los usuarios de estos juegos son mujeres, y que el 68% tienen entre 25 y 44 años. Además, el estudio revela que el 67% de los jugadores están casados, el 74% residen en zonas suburbanas, el 42% poseen un grado universitario y las profesiones más frecuentes son: finanzas (22%), ventas (19%), recursos humanos (13%) y sanidad (12%).
 
 ## ¿Quiénes van a ser los potenciales clientes/usuarios?
 
@@ -22,9 +22,9 @@ Con estas características, nuestro juego será una opción ideal para los amant
 
 ## ¿Nos dirigimos a un mercado de masas o a un nicho concreto? ¿Va a afectar esto a la aplicación?
 
-Como se indica en el siguiente (artículo)[https://www.futuremarketinsights.com/reports/games-and-puzzles-market], Estados Unidos es el principal mercado para los juegos casuales y de puzzles, por lo que es esencial **localizar el juego al inglés**. El mercado chino es el segundo más grande, pero se trata de un mercado difícil de acceder, por lo que se considerará esa opción en un futuro.
+Como se indica en el siguiente [artículo](https://www.futuremarketinsights.com/reports/games-and-puzzles-market), Estados Unidos es el principal mercado para los juegos casuales y de puzzles, por lo que es esencial **localizar el juego al inglés**. El mercado chino es el segundo más grande, pero se trata de un mercado difícil de acceder, por lo que se considerará esa opción en un futuro.
 
-Se estima que el número de descargas de este tipo de juegos este año ronda los (4,5 millardos)[https://www.businessofapps.com/data/puzzle-games-market/], lo que supone una caída de casi 1 millardo respecto al año anterior, debido al fin de la pandemia de COVID. Se prevé que el mercado se mantenga estable en torno a esta cifra (**4,5 millardos**). Dado el alto potencial de captar usuarios, los componentes que permiten la interacción de los usuarios, como los servidores que almacenan las clasificaciones, deben ser altamente **escalables**.
+Se estima que el número de descargas de este tipo de juegos este año ronda los [4,5 millardos](https://www.businessofapps.com/data/puzzle-games-market/), lo que supone una caída de casi 1 millardo respecto al año anterior, debido al fin de la pandemia de COVID. Se prevé que el mercado se mantenga estable en torno a esta cifra (**4,5 millardos**). Dado el alto potencial de captar usuarios, los componentes que permiten la interacción de los usuarios, como los servidores que almacenan las clasificaciones, deben ser altamente **escalables**.
 
 ## ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
 

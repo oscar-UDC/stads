@@ -42,7 +42,7 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 - Nuestra app tiene planeado implementar minijuegos que emplean los sensores del smartphone, haciendo la experiecia mas interactiva y original.
 
-# ¿Cómo nos diferenciamos de la competencia?
+## ¿Cómo nos diferenciamos de la competencia?
 
 - La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
  

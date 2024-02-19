@@ -1,3 +1,5 @@
+A continuación se detallan el reparto de roles y de funcionalidades para el desarrollo del proyecto. Las funcionalidades se reparten del siguiente modo: una tarea crítica y varios levels para cada uno. Se espera que la lista de levels cambie y aumente con el tiempo, en función de los requisitos de tamaño de la aplicación.
+
 
 - CEO – Director ejecutivo **(Diego Antonio López López)**
 	- CEO = Chief Executive Officer.

@@ -8,6 +8,7 @@
 	- Testing.
 
 Funcionalidades para Diego:
+
 	- Planeador de niveles, detección de los sensores del dispositivo y encolado de los niveles
 	- Testing. 
         - Level Mira al norte
@@ -19,6 +20,7 @@ Funcionalidades para Diego:
 	- Validación funcional.
 
 Funcionalidades para Daniel:
+
         - Elemento de fondo, la bomba que "explota" si no reseteas el contador pulsando el botón
         - Level Sopa de letras
         - Level Omitir por detrás
@@ -30,6 +32,7 @@ Funcionalidades para Daniel:
 	- Integración de APIs de terceros.
 
 Funcionalidades para Juan:
+
         - Sistema de puntuación en base a la dificultad y velocidad de resolución del puzzle
         - Level saca foto a objeto de color
         - Level Rompe la pared

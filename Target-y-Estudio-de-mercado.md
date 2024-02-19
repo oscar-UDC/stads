@@ -6,6 +6,8 @@ Según la mayoría de los estudios de demografía, los juegos casuales y de puzz
 
 ## ¿Quiénes van a ser los potenciales clientes/usuarios?
 
+El mercado de los juegos es muy competitivo y los usuarios se reparten entre unos pocos juegos. Nuestro objetivo es desarrollar una aplicación dirigida a jóvenes, sobre todo hombres, que logre destacar en el ecosistema y captar una audiencia que nuestros competidores descuidan.
+
 ## ¿A quién pretendemos dar servicio?
 
 ## ¿Creamos valor para alguien? ¿Quiénes?
@@ -28,7 +30,7 @@ Se estima que el número de descargas de este tipo de juegos este año ronda los
 
 ## ¿Qué características tiene nuestro cliente perfecto? (Early adopters)
 
-- Nuestro cliente perfecto sería aficionado a los juegos casuales y también competitivo, perceptible a comprar objetos de la aplicación como objetos para "revivir" o "ralentizar las ads".
+Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la cultura de internet y sus memes. Nuestro juego le hará reír con las bromas que hay en cada nivel y le motivará a compartirlo con sus amigos y redes sociales. Así, nuestro juego se hará viral y llegará a más personas
 
 # Estudio de mercado.
 

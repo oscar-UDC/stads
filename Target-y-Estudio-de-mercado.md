@@ -10,7 +10,11 @@ El mercado de los juegos es muy competitivo y los usuarios se reparten entre uno
 
 ## ¿A quién pretendemos dar servicio?
 
+Pretendemos dar servicio a los aficionados a los juegos casuales que disfrutan de la cultura de internet y sus memes, y que buscan divertirse y reírse con nuestro juego.
+
 ## ¿Creamos valor para alguien? ¿Quiénes?
+
+Nuestros clientes son los aficionados a los juegos casuales y que no encuentran otros juegos de puzles que se adapten a sus gustos e intereses. Nuestro juego les crea valor al ofrecerles entretenimiento y sensación de superación, con puzles ingeniosos que usan sensores, diseño relajante que combina colores suave y variedad de niveles y modos de juego que se adaptan a su tiempo y habilidad.
 
 ## Razones para jugar ScapeTheAds
 

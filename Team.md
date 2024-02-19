@@ -10,7 +10,6 @@
 Funcionalidades para Diego:
 
 	- Planeador de niveles, detección de los sensores del dispositivo y encolado de los niveles
-	- Testing. 
         - Level Mira al norte
         - Level Omitir modo oscuro
 

@@ -40,18 +40,15 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 ## ¿Qué va a hacer que nuestra app no sea fácilmente copiable?
 
-- Nuestra app tiene planeado implementar minijuegos que emplean los sensores del smartphone, haciendo la experiecia mas interactiva y original.
+- Concepto único y difícil de copiar: Nuestra aplicación se destacará al ofrecer una propuesta fresca y original que integra parodias de anuncios y minijuegos interactivos. Implementaremos minijuegos que emplean los sensores del smartphone, lo que hará que la experiencia sea más interactiva y única. Esta combinación de elementos no solo ofrecerá entretenimiento, sino que también asegurará que nuestra aplicación sea difícil de copiar por la competencia.
 
 ## ¿Cómo nos diferenciamos de la competencia?
 
-- La mayoría de la competencia son juegos de puzles de match 3 que hacen uso de los anuncios a los que nuestra aplicación hace parodia.
- 
-- Nuestro juego no es  de los géneros de puzles mas predominantes en movil son de "match 3" y basados en físicas
+- Concepto de juego único: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado.
 
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 
-- Para crear relación con los usuarios se ofrecerá una versión básica de la  aplicación de forma gratuita.
-- También se podría recurrir a influencers para promocionar el juego.
-- Como plan de fidelización se cuenta con la originalidad de la aplicación la cual se espera que cree una impresión memorable que rentenga a los usuarios.
+-Enfoque en la comunidad: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
 
+-Fidelización a través de la originalidad: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.

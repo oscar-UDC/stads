@@ -46,10 +46,12 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 - Concepto de juego único: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado
 
+En la siguiente figura se pueden ver los juegos de puzles mas populares:
 | Candy Crush Menu      | Candy Crush gameplay     | Royal Match win screen   | Royal Match gameplay    | 
 | :-------------------: | :----------------------: | :----------------------: | :---------------------: |
 | ![CandyCrushMenu](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9c929a5a-95c2-46b0-934e-3b3600260987) | ![CandyCrush Match3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9217173e-106e-41e0-ac54-5604273bae8d) | ![Royal Match Win screen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/aa3d92ff-692b-4a29-8c12-37451420c2c2) | ![Royal Match Match 3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f76c1de9-03e2-4dab-b4a4-4be1488edd83) |
 
+- Estética distinguida: Nuestra aplicación se distingue por su estética sobria y minimalista. Mientras que muchos juegos en el mercado adoptan un estilo brillante y alegre con temáticas de caramelos y colores vibrantes, nosotros hemos optado por un enfoque diferente. Nuestra interfaz se caracteriza por su elegancia y simplicidad donde los matices de color los darán los anuncios de los que se harán parodia para tomar el centro de atencion. Para ello a lo largo del resto de la aplicación en lugar de saturar al usuario con colores llamativos y elementos visuales complejos, diseñaremos una experiencia visual más apagada. Utilizamos tonos neutros, como grises y blancos, para crear una sensación de calma y sofisticación. Los íconos y botones son limpios y minimalistas, sin distracciones innecesarias. En resumen, nuestra aplicación destacará por su elegancia discreta y su enfoque en la funcionalidad.
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 
@@ -59,7 +61,7 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 
 ## Estudio de la competencia
-Aunque ha sido difícil encontrar juegos o apps conceptualmente similares a EscapeTheAds, podemos comparar con algunos juegos existentes.
+Aunque ha sido difícil encontrar juegos o apps conceptualmente similares a ScapeTheAds, podemos comparar con algunos juegos existentes.
 
 ### Keep Talking and Nobody Explodes ([enlace](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/))
 
@@ -71,3 +73,12 @@ La bomba se compone de distintos tipos de módulos, como se muestra en la figura
 El desactivador deberá describirles los módulos y sus componentes a sus compañeros indicadores para que estos puedan, con el manual, identificar las instrucciones a seguir para desactivar la bomba antes de que el contador llegue a cero. [Enlace al manual público] (https://www.bombmanual.com/es/web/index.html).
 
 Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store (el videojuego es multiplataforma), no hace uso de los sensores del móvil para la desactivación de los módulos.
+
+
+
+
+
+
+
+
+

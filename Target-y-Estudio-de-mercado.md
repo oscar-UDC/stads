@@ -68,7 +68,7 @@ El desactivador deberá describirles los módulos y sus componentes a sus compa�
 
 Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store (el videojuego es multiplataforma), no hace uso de los sensores del móvil para la desactivación de los módulos.
 
-###Tiny Room stories ([Play Store](https://play.google.com/store/apps/details?id=com.kiarygames.tinyroom&hl=es_419&gl=US))
+### Tiny Room stories ([Play Store](https://play.google.com/store/apps/details?id=com.kiarygames.tinyroom&hl=es_419&gl=US))
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/6bca7656-64e1-4a9e-8c8a-8ece485620b0)
 

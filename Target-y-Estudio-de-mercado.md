@@ -57,7 +57,7 @@ Para ello a lo largo del resto de la aplicación en lugar de saturar al usuario 
 
 Aunque ha sido un desafío encontrar juegos o aplicaciones conceptualmente similares a ScapeTheAds, hemos descubierto algunos que comparten ciertos aspectos de interactividad que deseamos que los usuarios experimenten.
 
-### Keep Talking and Nobody Explodes ([enlace](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/))
+### Keep Talking and Nobody Explodes ([Steam](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/))
 
 En este juego, un jugador "desactivador" deberá seguir las instrucciones de otros jugadores "indicadores" para desactivar a tiempo los módulos de una bomba para que esta no explote. El desactivador no debe ver el manual. Los indicadores no deben ver la bomba. La gracia consiste en que los jugadores indicadores poseen un manual que contiene las claves para que el jugador desactivador sepa qué botón pulsar, qué cable cortar, o qué palanca accionar en cada tipo de módulo de la bomba.
 
@@ -68,7 +68,9 @@ El desactivador deberá describirles los módulos y sus componentes a sus compa�
 
 Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store (el videojuego es multiplataforma), no hace uso de los sensores del móvil para la desactivación de los módulos.
 
-###[Tiny room](https://play.google.com/store/apps/details?id=com.kiarygames.tinyroom&hl=es_419&gl=US)
+###Tiny Room stories ([Play Store](https://play.google.com/store/apps/details?id=com.kiarygames.tinyroom&hl=es_419&gl=US))
+
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/6bca7656-64e1-4a9e-8c8a-8ece485620b0)
 
  este juego, los usuarios se sumergen en la resolución de puzles para desentrañar un misterio protagonizando a un detective. La trama se desarrolla a medida que avanzan, combinando elementos narrativos con desafíos lógicos.
 
@@ -77,8 +79,6 @@ El juego sigue un modelo _free-to-play_, lo que significa que los jugadores pue
 El juego fue desarrollado utilizando la plataforma Unity. Este juego nos demuestra la viabilidad de este motor para el desarrollo de nuestra aplicación.
 
 Nuestra propuesta para la interactividad con los puzles va más allá. Además de los desafíos tradicionales, consideramos incorporar sensores en el juego. Estos sensores podrían detectar movimientos, luz ambiental o incluso la orientación del dispositivo, agregando una capa adicional de inmersión y desafío para los jugadores.
-
-![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/6bca7656-64e1-4a9e-8c8a-8ece485620b0)
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 

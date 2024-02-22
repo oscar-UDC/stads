@@ -52,3 +52,18 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 - Enfoque en la comunidad: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
 
 - Fidelización a través de la originalidad: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.
+
+
+## Estudio de la competencia
+Aunque ha sido difícil encontrar juegos o apps conceptualmente similares a EscapeTheAds, podemos comparar con algunos juegos existentes.
+
+### Keep Talking and Nobody Explodes ([enlace](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/))
+
+En este juego, un jugador "desactivador" deberá seguir las instrucciones de otros jugadores "indicadores" para desactivar a tiempo los módulos de una bomba para que esta no explote. El desactivador no debe ver el manual. Los indicadores no deben ver la bomba. La gracia consiste en que los jugadores indicadores poseen un manual que contiene las claves para que el jugador desactivador sepa qué botón pulsar, qué cable cortar, o qué palanca accionar en cada tipo de módulo de la bomba.
+
+La bomba se compone de distintos tipos de módulos, como se muestra en la figura siguiente (captura del juego):
+![Bomb example](https://cdn.cloudflare.steamstatic.com/steam/apps/341800/ss_08b578d01d5b78c177ac1bb60ab6fe1fa4bda497.600x338.jpg?t=1699020889)
+
+El desactivador deberá describirles los módulos y sus componentes a sus compañeros indicadores para que estos puedan, con el manual, identificar las instrucciones a seguir para desactivar la bomba antes de que el contador llegue a cero. [Enlace al manual público] (https://www.bombmanual.com/es/web/index.html).
+
+Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store, no hace uso de los sensores del móvil para la desactivación de los módulos.

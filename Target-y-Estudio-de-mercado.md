@@ -40,28 +40,22 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 ## ¿Qué va a hacer que nuestra app no sea fácilmente copiable?
 
-- Concepto único y difícil de copiar: Nuestra aplicación se destacará al ofrecer una propuesta fresca y original que integra parodias de anuncios y minijuegos interactivos. Implementaremos minijuegos que emplean los sensores del smartphone, lo que hará que la experiencia sea más interactiva y única. Esta combinación de elementos no solo ofrecerá entretenimiento, sino que también asegurará que nuestra aplicación sea difícil de copiar por la competencia.
+**Concepto único y difícil de copiar**: Nuestra aplicación se destacará al ofrecer una propuesta fresca y original que integra parodias de anuncios y minijuegos interactivos. Implementaremos minijuegos que emplean los sensores del smartphone, lo que hará que la experiencia sea más interactiva y única. Esta combinación de elementos no solo ofrecerá entretenimiento, sino que también asegurará que nuestra aplicación sea difícil de copiar por la competencia.
 
 ## ¿Cómo nos diferenciamos de la competencia?
 
-- Concepto de juego único: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado
+**Concepto de juego único**: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado
 
 En la siguiente figura se pueden ver los juegos de puzles mas populares:
 | Candy Crush Menu      | Candy Crush gameplay     | Royal Match win screen   | Royal Match gameplay    | 
 | :-------------------: | :----------------------: | :----------------------: | :---------------------: |
 | ![CandyCrushMenu](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9c929a5a-95c2-46b0-934e-3b3600260987) | ![CandyCrush Match3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9217173e-106e-41e0-ac54-5604273bae8d) | ![Royal Match Win screen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/aa3d92ff-692b-4a29-8c12-37451420c2c2) | ![Royal Match Match 3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f76c1de9-03e2-4dab-b4a4-4be1488edd83) |
 
-- Estética distinguida: Nuestra aplicación se distingue por su estética sobria y minimalista. Mientras que muchos juegos en el mercado adoptan un estilo brillante y alegre con temáticas de caramelos y colores vibrantes, nosotros hemos optado por un enfoque diferente. Nuestra interfaz se caracteriza por su elegancia y simplicidad donde los matices de color los darán los anuncios de los que se harán parodia para tomar el centro de atencion. Para ello a lo largo del resto de la aplicación en lugar de saturar al usuario con colores llamativos y elementos visuales complejos, diseñaremos una experiencia visual más apagada. Utilizamos tonos neutros, como grises y blancos, para crear una sensación de calma y sofisticación. Los íconos y botones son limpios y minimalistas, sin distracciones innecesarias. En resumen, nuestra aplicación destacará por su elegancia discreta y su enfoque en la funcionalidad.
+**Estética distinguida**: Nuestra aplicación se distingue por su estética sobria y minimalista. Mientras que muchos juegos en el mercado adoptan un estilo brillante y alegre con temáticas de caramelos y colores vibrantes, nosotros hemos optado por un enfoque diferente. Nuestra interfaz se caracteriza por su elegancia y simplicidad donde los matices de color los darán los anuncios de los que se harán parodia para tomar el centro de atencion. 
 
-## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
+Para ello a lo largo del resto de la aplicación en lugar de saturar al usuario con colores llamativos y elementos visuales complejos, diseñaremos una experiencia visual más apagada. Utilizamos tonos neutros, como grises y blancos, para crear una sensación de calma y sofisticación. Los íconos y botones son limpios y minimalistas, sin distracciones innecesarias. En resumen, nuestra aplicación destacará por su elegancia discreta y su enfoque en la funcionalidad.
 
-- Enfoque en la comunidad: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
-
-- Fidelización a través de la originalidad: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.
-
-
-## Estudio de la competencia
-Aunque ha sido difícil encontrar juegos o apps conceptualmente similares a ScapeTheAds, podemos comparar con algunos juegos existentes.
+Aunque ha sido un desafío encontrar juegos o aplicaciones conceptualmente similares a ScapeTheAds, hemos descubierto algunos que comparten ciertos aspectos de interactividad que deseamos que los usuarios experimenten.
 
 ### Keep Talking and Nobody Explodes ([enlace](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/))
 
@@ -74,8 +68,23 @@ El desactivador deberá describirles los módulos y sus componentes a sus compa�
 
 Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store (el videojuego es multiplataforma), no hace uso de los sensores del móvil para la desactivación de los módulos.
 
+###[Tiny room](https://play.google.com/store/apps/details?id=com.kiarygames.tinyroom&hl=es_419&gl=US)
 
+ este juego, los usuarios se sumergen en la resolución de puzles para desentrañar un misterio protagonizando a un detective. La trama se desarrolla a medida que avanzan, combinando elementos narrativos con desafíos lógicos.
 
+El juego sigue un modelo _free-to-play_, lo que significa que los jugadores pueden descargarlo y jugar sin costo alguno. Sin embargo, también ofrece compras dentro de la aplicación (_in-app purchases_) para obtener pistas gratuitas, eliminar anuncios y acceder a contenido adicional.
+
+El juego fue desarrollado utilizando la plataforma Unity. Este juego nos demuestra la viabilidad de este motor para el desarrollo de nuestra aplicación.
+
+Nuestra propuesta para la interactividad con los puzles va más allá. Además de los desafíos tradicionales, consideramos incorporar sensores en el juego. Estos sensores podrían detectar movimientos, luz ambiental o incluso la orientación del dispositivo, agregando una capa adicional de inmersión y desafío para los jugadores.
+
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/6bca7656-64e1-4a9e-8c8a-8ece485620b0)
+
+## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
+
+**Enfoque en la comunidad**: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
+
+**Fidelización a través de la originalidad**: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.
 
 
 

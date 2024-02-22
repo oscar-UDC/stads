@@ -66,4 +66,4 @@ La bomba se compone de distintos tipos de módulos, como se muestra en la figura
 
 El desactivador deberá describirles los módulos y sus componentes a sus compañeros indicadores para que estos puedan, con el manual, identificar las instrucciones a seguir para desactivar la bomba antes de que el contador llegue a cero. [Enlace al manual público] (https://www.bombmanual.com/es/web/index.html).
 
-Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store, no hace uso de los sensores del móvil para la desactivación de los módulos.
+Nuestro juego se parece a este en el objetivo y en la dinámica de ir desactivando la bomba resolviendo puzzles. La diferencia más notoria es que, aunque Keep Talking & Nobody Explodes está disponible en la Play Store (el videojuego es multiplataforma), no hace uso de los sensores del móvil para la desactivación de los módulos.

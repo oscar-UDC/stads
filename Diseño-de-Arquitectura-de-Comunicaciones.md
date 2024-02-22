@@ -8,6 +8,11 @@
 - Leaderboards: Servidor externo que almacena los records de los usuarios globalmente.
 - MainMenu: Menu principal desde el que se puede acceder al modo estandar, selector de niveles, leaderboards y highscores, 
 - Highscores: Base de datos local que almacena los records personales.
+- Gestion de sensorica: Para independizar la aplicación de los posibles cambios de sensores entre diferentes teléfonos se dispondrá de una clase intermediaria para su gestión. Sensores a gestionar:
+	* Camara
+	* Brújula
+	* Giroscopio
+	* Acelerómetro
 
 ## Hacer el diseño a alto nivel de cómo se conectarán los diversos elementos.
 

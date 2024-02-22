@@ -44,8 +44,15 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 ## ¿Cómo nos diferenciamos de la competencia?
 
-- Concepto de juego único: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado.
+- Concepto de juego único: Mientras que la mayoría de la competencia se centra en juegos de puzles de tipo "match 3", nuestra aplicación se destacará al ofrecer una experiencia diferente y fresca que integra elementos de parodia de los anuncios presentes en otros juegos, así como minijuegos interactivos que aprovechan los sensores del smartphone. Esta originalidad nos diferenciará claramente de otros juegos en el mercado
+![CandyCrushMenu](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9c929a5a-95c2-46b0-934e-3b3600260987)
 
+
+![CandyCrush Match3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9217173e-106e-41e0-ac54-5604273bae8d)
+
+![Royal Match Win screen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/aa3d92ff-692b-4a29-8c12-37451420c2c2)
+
+![Royal Match Match 3](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f76c1de9-03e2-4dab-b4a4-4be1488edd83)
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 

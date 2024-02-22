@@ -17,4 +17,5 @@
 
 ## Hacer el diseño a alto nivel de cómo se conectarán los diversos elementos.
 
-![arquitectura](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/44831e84-0d11-413f-ab76-3e414717743b)
+![arquitectura drawio](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d1a62936-1359-48c6-9a9c-65c75bdb3764)
+

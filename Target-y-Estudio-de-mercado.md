@@ -49,6 +49,6 @@ Nuestro cliente ideal es un aficionado a los juegos casuales que disfruta de la 
 
 ## ¿Cómo se va a crear una relación con los usuarios y cómo vamos a fidelizarlos?
 
--Enfoque en la comunidad: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
+- Enfoque en la comunidad: Nos comprometemos a establecer una fuerte relación con nuestros usuarios a través de estrategias de marketing centradas en la comunidad. Además, planeamos colaborar con influencers para promocionar el juego y aumentar su visibilidad entre el público objetivo.
 
--Fidelización a través de la originalidad: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.
+- Fidelización a través de la originalidad: La originalidad de nuestra aplicación será fundamental para mantener a los usuarios comprometidos y fidelizados. Se espera que nuestra aplicación cree una impresión memorable que rentenga a los usuarios.

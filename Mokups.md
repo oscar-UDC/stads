@@ -5,7 +5,7 @@
 # Mockups iniciales
 ## Diseño "a mano" de una primera versión de las pantallas de la app.
 
-![diseñoAMano](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/8a1ab8cc-940f-4118-9c31-547b85bfeb88)
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b380e732-80b8-47d0-8901-afb11f239930)
 
 ## Diseño en Figma
 

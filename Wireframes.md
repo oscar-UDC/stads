@@ -9,6 +9,8 @@
 
 ## Diseño en Figma
 
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/1e373b3d-fa87-492e-82cc-dd5e0c015d1a)
+
 ### Login
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/f229a76d-c4d2-4a42-821b-e28c07714b99)

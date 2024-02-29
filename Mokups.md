@@ -9,25 +9,25 @@
 
 ## Diseño en Figma
 
-![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/1e373b3d-fa87-492e-82cc-dd5e0c015d1a)
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/465137b2-9f2f-4822-9913-dc50c5276029)
 
 ### Login
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/f229a76d-c4d2-4a42-821b-e28c07714b99)
 
-Pantalla de autenticación en la que el usuario introduce su nombre y contraseña
+Pantalla de autenticación en la que el usuario introduce su nombre y contraseña.
 
 ### Seleccionar nombre
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/ea1776d0-2b19-41ef-a50c-6e83e2a42887)
 
-Pagina de elección de nombre en el que el usuario escoge el nombre que aparecerá en las Leaderboards
+Pagina de elección de nombre en el que el usuario escoge el nombre que aparecerá en las Leaderboards.
 
 ### Pantalla principal
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1)
 
-Pantalla principal desde la que el usuario podrá acceder al resto de funcionalidades de la aplicación
+Pantalla principal desde la que el usuario podrá acceder al resto de funcionalidades de la aplicación.
 
 ### Puzle
 
@@ -45,11 +45,22 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)
 
-Pantalla que muestra la puntuazión del usuario frente al resto de jugadores
+Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
 ### Highscores
 
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a)
 
-Pantalla que muestra los records del usuario en el modo de juego principal
+Pantalla que muestra los records del usuario en el modo de juego principal.
 
+### Pantalla de derrota
+
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/710ae85e-e147-4db1-8de0-a8dae7802196)
+
+Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
+
+### Pantalla de victoria
+
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b4917bdb-ab80-4ddf-a520-85c20850383f)
+
+Pantalla que muestra que el usuario ha superado un nivel del selector de niveles.

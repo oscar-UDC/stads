@@ -38,7 +38,7 @@ Funcionalidades para Juan:
         - Level saca foto a objeto de color
         - Level Rompe la pared
 
-- CXO - Responsable de experiencia de usuario **(Daniel Silva Iglesias)**
+## CXO - Responsable de experiencia de usuario **(Daniel Silva Iglesias)**
 	- CXO = Chief Experience Officer.
 	- Usabilidad.
 	- Experiencia de usuario (UX): menús, feedback, contenido multimedia.

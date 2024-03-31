@@ -12,7 +12,7 @@
 
 - [Arquitectura](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Dise%C3%B1o-de-Arquitectura-de-Comunicaciones)
 
-- [Mockups](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Mokups)
+- [Mockups](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Mockups)
 
 - [Arquitectura de Componentes](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Arquitectura-de-Componentes)
 

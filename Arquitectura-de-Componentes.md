@@ -18,7 +18,7 @@
 
 ## Configuración (Settings)
 - Punto de entrada: Menú principal.
-- Descripción:
+- Descripción: Este componente permite configurar el volumen de la aplicación y el idioma de sus textos.
  
 ## Jugar (UnityPlayerActivity)
 - Punto de entrada: Menú principal.
@@ -26,22 +26,22 @@
 
 ## Selector de niveles (Level Selector)
 - Punto de entrada: Menú principal.
-- Descripción: Permite seleccionar un nivel para juagar en modo nivel individual. Al principio todos los niveles están bloqueados, luego según el usuario se los vaya encontrando en el modo infinito, se irán desbloqueando en esta pantalla para que pueda practicarlos.
+- Descripción: Permite seleccionar un nivel para jugar en modo nivel individual. Al principio todos los niveles están bloqueados, luego según el usuario se los vaya encontrando en el modo infinito, se irán desbloqueando en esta pantalla para que pueda practicarlos.
 
 ## Nivel (Level)
-- Punto de entrada: Selector de Niveles o Menú principal.
+- Punto de entrada: Selector de Niveles pulsando un botón cualquiera o Menú principal pulsando en jugar al modo infinito.
 - Descripción: UnityPlayerActivity al finalizar también invoca la terminación de la actividad que la ha llamado, por lo que es necesario tener una Activity intermediaria para poder volver correctamente a la pantalla esperada.
 
 ## Pantalla de victoria
-- Punto de entrada: Al finalizar un Nivel.
-- Descripción: Esta pantalla se muestra cuando el usuario que ha terminado la partida.
+- Punto de entrada: Al superar un Nivel.
+- Descripción: Esta pantalla se muestra cuando el usuario ha terminado la partida.
 
 ## Pantalla de derrota
 - Punto de entrada: Al finalizar un Nivel.
-- Descripción: Esta pantalla se muestra cuando el usuario que ha terminado la partida.
+- Descripción: Esta pantalla se muestra cuando el usuario ha terminado la partida.
 
 # Fragments
-Para esta aplicación no es necesario realizar navegación entre distintas funcionalidades ya que tiene un conjunto de funcionalidades muy sencillo y otras aplicaciones del mercado siguen el mismo modelo de pantallas individuales para cada lugar distinto.
+Para esta aplicación no es necesario realizar navegación entre distintas funcionalidades ya que tiene un conjunto de funcionalidades muy sencillo. Otras aplicaciones del mercado siguen el mismo modelo de pantallas individuales para cada lugar distinto.
 
 
 # Servicios

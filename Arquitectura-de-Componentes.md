@@ -26,7 +26,7 @@
 
 ## Selector de niveles (Level Selector)
 - Punto de entrada: Menú principal.
-- Descripción: Permite seleccionar un nivel para juagar en modo nivel individual.
+- Descripción: Permite seleccionar un nivel para juagar en modo nivel individual. Al principio todos los niveles están bloqueados, luego según el usuario se los vaya encontrando en el modo infinito, se irán desbloqueando en esta pantalla para que pueda practicarlos.
 
 ## Nivel (Level)
 - Punto de entrada: Selector de Niveles o Menú principal.

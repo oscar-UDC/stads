@@ -37,7 +37,7 @@ Pantalla principal desde la que el usuario podrá acceder al resto de funcionali
 ### Ajustes
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/0a4c8a3f-4c57-4d0c-8c52-70c3d1c6bb01) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0) |
+| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/30098b7b-5b29-40f4-8d8d-ce0da27b65ef) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0) |
 
 Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la aplicación
 

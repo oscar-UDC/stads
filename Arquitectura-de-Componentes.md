@@ -16,15 +16,15 @@
 - Punto de entrada: Menú principal.
 - Descripción: Estos dos componente los vamos a implementar con una misma activity y vamos a cargar datos distintos en funcion de lo que el usuario haya seleccionado.
 
-![ScoresComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/5814af19-e7a8-427f-bbc0-e56d6de9c1ef)
-![Group 183](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/60cede78-a800-4860-a116-d27626aff2c2)
+![ScoresComentado]](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/60cede78-a800-4860-a116-d27626aff2c2)
 
 
 ## Configuración (Settings)
 - Punto de entrada: Menú principal.
 - Descripción: Este componente permite configurar el volumen de la aplicación y el idioma de sus textos.
  
-![SettingsComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/653b2fe7-cec5-4956-b384-219316acbb52)
+![SettingsComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/d7fe0004-3a6e-4b14-acb2-fa090b070f2a)
+
 
 ## Jugar (UnityPlayerActivity)
 - Punto de entrada: Menú principal.

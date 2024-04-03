@@ -24,9 +24,13 @@
 - Punto de entrada: Menú principal.
 - Descripción: Empieza una partida en modo de juego infinito.
 
+![NivelComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/5636ea4a-6d0c-4094-9483-1835c39fe879)
+
 ## Selector de niveles (Level Selector)
 - Punto de entrada: Menú principal.
 - Descripción: Permite seleccionar un nivel para jugar en modo nivel individual. Al principio todos los niveles están bloqueados, luego según el usuario se los vaya encontrando en el modo infinito, se irán desbloqueando en esta pantalla para que pueda practicarlos.
+
+![LevelSelectorComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1c6d5482-e001-4063-9ea7-7173e276584b)
 
 ## Nivel (Level)
 - Punto de entrada: Selector de Niveles pulsando un botón cualquiera o Menú principal pulsando en jugar al modo infinito.

@@ -37,9 +37,7 @@ Pantalla principal desde la que el usuario podrá acceder al resto de funcionali
 ### Ajustes
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/86e5933a-be99-45fd-809a-9aedb9453bc1) | 
-![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0)
-|
+| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/0a4c8a3f-4c57-4d0c-8c52-70c3d1c6bb01) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0) |
 
 Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la aplicación
 
@@ -55,7 +53,7 @@ Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) |
 
 
 
@@ -65,7 +63,7 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |
 
 
 Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
@@ -74,8 +72,7 @@ Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) | 
-![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/1b0d60f7-bbe0-43a8-8278-2d51fe58ab89) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/1b0d60f7-bbe0-43a8-8278-2d51fe58ab89) |
 
 
 Pantalla que muestra los records del usuario en el modo de juego principal.
@@ -84,7 +81,7 @@ Pantalla que muestra los records del usuario en el modo de juego principal.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/710ae85e-e147-4db1-8de0-a8dae7802196) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1856dd8b-b4a5-48fa-b539-5d47f68e13ce) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/710ae85e-e147-4db1-8de0-a8dae7802196) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1856dd8b-b4a5-48fa-b539-5d47f68e13ce) |
 
 Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
@@ -92,7 +89,7 @@ Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b4917bdb-ab80-4ddf-a520-85c20850383f) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/6ba2bcb8-b806-4a6f-8cde-739b2f961e37) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b4917bdb-ab80-4ddf-a520-85c20850383f) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/6ba2bcb8-b806-4a6f-8cde-739b2f961e37) |
 
 
 Pantalla que muestra que el usuario ha superado un nivel del selector de niveles.

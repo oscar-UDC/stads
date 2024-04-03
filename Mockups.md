@@ -30,14 +30,16 @@ Pagina de elección de nombre en el que el usuario escoge el nombre que aparecer
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/ffd39797-0a80-4188-bca3-205c512c1716)|
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c4f07c1a-bf3a-494e-b924-af67b87ebb8d)|
 
 Pantalla principal desde la que el usuario podrá acceder al resto de funcionalidades de la aplicación.
 
 ### Ajustes
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c228cb52-c79c-4504-aec9-fd1caf2f77f8) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/e93800c1-08b9-4f01-b9f3-86f2c6b3bf50) |
+| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/86e5933a-be99-45fd-809a-9aedb9453bc1) | 
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0)
+|
 
 Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la aplicación
 
@@ -45,7 +47,7 @@ Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la apl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/c162f9f5-b21c-4c89-9e80-4fac08fc3e34) | |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/c162f9f5-b21c-4c89-9e80-4fac08fc3e34) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/9a6c41c6-dea7-41e6-9834-44fa8c2f9c6c)|
 
 Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible que el usuario tenga que resolver varios puzles de forma consecutiva en función del nivel de dificultad. En tal caso se indicará el progreso debajo del contenido principal.
 
@@ -63,7 +65,8 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/10e3eb87-11c4-475c-9682-bd9efff06503)|
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |
+
 
 Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
@@ -71,7 +74,8 @@ Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/85458ee1-b1e4-49b4-87bb-ee7557011a36) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) | 
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/1b0d60f7-bbe0-43a8-8278-2d51fe58ab89) |
 
 
 Pantalla que muestra los records del usuario en el modo de juego principal.

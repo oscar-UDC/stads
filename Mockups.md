@@ -53,7 +53,9 @@ Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) |
+
+
 
 Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzles. Los ya completados se verán visualmente distintos a los no completados.
 
@@ -78,7 +80,7 @@ Pantalla que muestra los records del usuario en el modo de juego principal.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/710ae85e-e147-4db1-8de0-a8dae7802196)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/710ae85e-e147-4db1-8de0-a8dae7802196) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1856dd8b-b4a5-48fa-b539-5d47f68e13ce) |
 
 Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
@@ -86,6 +88,7 @@ Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b4917bdb-ab80-4ddf-a520-85c20850383f)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/b4917bdb-ab80-4ddf-a520-85c20850383f) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/6ba2bcb8-b806-4a6f-8cde-739b2f961e37) |
+
 
 Pantalla que muestra que el usuario ha superado un nivel del selector de niveles.

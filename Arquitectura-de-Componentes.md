@@ -17,6 +17,8 @@
 - Descripción: Estos dos componente los vamos a implementar con una misma activity y vamos a cargar datos distintos en funcion de lo que el usuario haya seleccionado.
 
 ![ScoresComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/5814af19-e7a8-427f-bbc0-e56d6de9c1ef)
+![Group 183](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/60cede78-a800-4860-a116-d27626aff2c2)
+
 
 ## Configuración (Settings)
 - Punto de entrada: Menú principal.

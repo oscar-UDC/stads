@@ -30,9 +30,16 @@ Pagina de elección de nombre en el que el usuario escoge el nombre que aparecer
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) | |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/ffd39797-0a80-4188-bca3-205c512c1716)|
 
 Pantalla principal desde la que el usuario podrá acceder al resto de funcionalidades de la aplicación.
+
+### Ajustes
+| Mockup teléfono       | Mockup Tablet            |
+| :-------------------: | :----------------------: |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c228cb52-c79c-4504-aec9-fd1caf2f77f8) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/e93800c1-08b9-4f01-b9f3-86f2c6b3bf50) |
+
+Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la aplicación
 
 ### Puzle
 
@@ -54,7 +61,7 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70)| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/10e3eb87-11c4-475c-9682-bd9efff06503)|
 
 Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
@@ -62,7 +69,8 @@ Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/85458ee1-b1e4-49b4-87bb-ee7557011a36) |
+
 
 Pantalla que muestra los records del usuario en el modo de juego principal.
 

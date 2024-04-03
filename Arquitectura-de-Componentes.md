@@ -16,7 +16,7 @@
 - Punto de entrada: Menú principal.
 - Descripción: Estos dos componente los vamos a implementar con una misma activity y vamos a cargar datos distintos en funcion de lo que el usuario haya seleccionado.
 
-![ScoresComentado]](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/60cede78-a800-4860-a116-d27626aff2c2)
+![ScoresComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/60cede78-a800-4860-a116-d27626aff2c2)
 
 
 ## Configuración (Settings)

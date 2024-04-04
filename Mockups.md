@@ -15,14 +15,15 @@
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/f229a76d-c4d2-4a42-821b-e28c07714b99) | |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/f229a76d-c4d2-4a42-821b-e28c07714b99) |![login](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/3f4945e2-a9d5-4a51-9e89-d08727a97513) |
+
 
 Pantalla de autenticación en la que el usuario introduce su nombre y contraseña.
 
 ### Seleccionar nombre
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/ea1776d0-2b19-41ef-a50c-6e83e2a42887)| |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/ea1776d0-2b19-41ef-a50c-6e83e2a42887)|![nickname](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/ea7ef0a9-18dc-40ab-bd8d-94cafc1d50fc) |
 
 Pagina de elección de nombre en el que el usuario escoge el nombre que aparecerá en las Leaderboards.
 

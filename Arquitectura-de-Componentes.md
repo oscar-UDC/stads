@@ -58,7 +58,8 @@ Para esta aplicación no es necesario realizar navegación entre distintas funci
 
 ## UnityBridge. Interfaz entre Unity y la aplicación de Android.
 
-Habrá un servició que se encargará de la gestión de un Servidor con la funcion de intermediario entre el juego de Unity y la app mediante mensajes json entre ellos.
+- Servicio iniciado mediante onStartCommand() ya que Unity finaliza la actividad desde la que fue llamado con lo que se podría finalizar el Servicio inesperadamente y dejar a medias el procesamiento de datos.
+- Funcionalidad: Servicio que se encargará de la gestión de un Servidor con la funcion de intermediario entre el juego de Unity y la app mediante mensajes json entre ellos.
 
 Android indicará el modo de juego que el usuario ha seleccionado:
 
@@ -108,6 +109,14 @@ Para el selector de niveles se mandarán estos datos al terminar la partida:
 	"level": 2
 }
 ```
+
+## 
+
+# Corrutinas
+
+## Corrutina de guardado de datos del juego
+
+- El juego de Unity mandará datos sobre la partida del jugador que se guardarán en la Android Room y el backend. Las llamadas al API pueden relentizar el procesaminedo de datos del Servidor de Unity (UnityBridge) por lo que se ejecutara en una corrutina de GlobalScope. Se liberarán recursos tan pronto de hallan guardado datos en la Android Room y el backend o ocurra un error, por lo que una GlobalScope es adecuada para realizar el trabajo.
 
 
 

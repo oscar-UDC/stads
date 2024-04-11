@@ -112,11 +112,11 @@ Para el selector de niveles se mandarán estos datos al terminar la partida:
 
 # LocalScoreManager
 
-Usamos una clase llamada LocalScoreManager que conecta con SharedPreferences para guardar en esta interfaz los highscores locales, es decir, los que registra el usuario en sus partidas.
+Usamos una clase llamada LocalScoreManager que conecta con SharedPreferences para guardar en esta interfaz los highscores locales, es decir, los que registra el usuario en sus partidas, y para obtenerlos cuando el usuario los quiera revisar.
 
 # HighScoreViewModel
 
-Usamos una ViewModel llamado HighScoreViewModel que conecta con el backend, para guardar en él los highscores del usuario en la base de datos global, y para poder cargarlos en la aplicación.
+Usamos un ViewModel llamado HighScoreViewModel que conecta con el backend, para guardar en él los highscores del usuario en la base de datos global, y para poder cargarlos en la aplicación.
 
 # Corrutinas
 

@@ -16,7 +16,7 @@
 
 - [Arquitectura de Componentes](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Arquitectura-de-Componentes)
 
-- [Integraciones Third party](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Third-parties)
+- [Integraciones de Third parties](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Integraciones-de-Third-parties)
 
 ## Extras
 

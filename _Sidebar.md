@@ -16,6 +16,8 @@
 
 - [Arquitectura de Componentes](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Arquitectura-de-Componentes)
 
+- [Integraciones Third party](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Third-parties)
+
 ## Extras
 
 - [Guia Unity](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)

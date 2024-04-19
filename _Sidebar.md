@@ -23,3 +23,5 @@
 - [Guia Unity](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)
 
 - [Assets del juego](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Assets-del-juego)
+
+- [Dependencias](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Dependencias)

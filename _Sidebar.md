@@ -18,6 +18,8 @@
 
 - [Integraciones de Third parties](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Integraciones-de-Third-parties)
 
+- [Almacenamiento](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Almacenamiento)
+
 ## Extras
 
 - [Guia Unity](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)

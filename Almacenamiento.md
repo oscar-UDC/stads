@@ -1,5 +1,7 @@
 En la presente sesión, se abordará el tema de los componentes de la aplicación que requieren almacenamiento de datos, ya sea de forma local mediante Android Room para los datos de usuario y Datastore para las opciones de la aplicación, o a nivel global a través de Firebase para la gestión de la tabla de puntuaciones global.
 
+## Almacenamiento local
+
 **Android Room**
 
 Dentro de Android Room, se almacena la puntuación local del usuario en la base de datos localscores.db. Esta base de datos contiene los siguientes registros:
@@ -16,6 +18,15 @@ En cuanto al Datastore de Android, se guardan las opciones locales de la aplicac
 - Volumen de la aplicación.
 - Idioma de la aplicación.
 - Tema de color.
+
+**Datastore**
+
+También se alamcenará como una serie de claves valor la siguiente información:
+
+- Clave: Id del usuario (obtenido mediante Firebase Auth)
+- Valor: Nickname escogido por el usuario.
+
+## Almacenamiento externo
 
 **Firebase**
 

@@ -28,3 +28,7 @@ Queda pendiente remodelar completamente esta pantalla. Ahora mismo está muy esc
 Referencias:
 
 ![settingsRefe](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/21815a5e-5069-45c6-b2be-214769fb5618)
+
+## Contraste de los textos y legibilidad de los títulos.
+
+Podemos rodearlos con Surfaces o remodelarlos para que sean más comprensibles.

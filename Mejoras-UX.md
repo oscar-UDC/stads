@@ -9,6 +9,16 @@ Nos hemos dado cuenta de que agrupando los elementos de, por ejemplo, las pantal
 ## Selección de niveles en cards propias con una imagen de previsualización
 Ahora mismo en la pantalla de selección de niveles solamente se representa el número del nivel, sin quedar claro cuál jugarás al pulsar el botón. Proponemos sustituir la ristra de botones con números por un scroll con cards que contengan: 1. El nombre del juego en cuestión, 2. Una preview visual del contenido del nivel, y 3. Un botón para inicializar el nivel.
 
+La idea es pasar de este modelo: 
+
+![niveles](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/2cc0a276-050d-4797-949e-00db32f85009)
+
+a este otro:
+
+![nivelesBien](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/b536afab-96cb-4267-9a99-6cfc21c1792e)
+
+
+
 ## Pantalla de ajustes
 //TODO:
 Queda pendiente remodelar completamente esta pantalla.

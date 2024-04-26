@@ -3,6 +3,11 @@ En esta página se recopilan algunas potenciales mejoras que hemos identificado 
 ## Iconos en los botones
 Hemos decidido añadir iconos SVG de Material en los botones, siguiendo el principio de que el usuario identifique con objetos materiales las acciones que describe cada botón.
 
+Referencias:
+
+![IconosBienjpg](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/436fe6d1-23de-4c0c-866c-259d9f9466fe)
+
+
 ## Columnas grandes para discernir mejor las pantallas de su fondo
 Nos hemos dado cuenta de que agrupando los elementos de, por ejemplo, las pantallas de Scores en una columna grande de color macizo, dichos elementos destacan más y son mas visibles.
 

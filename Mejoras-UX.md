@@ -17,8 +17,9 @@ a este otro:
 
 ![nivelesBien](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/b536afab-96cb-4267-9a99-6cfc21c1792e)
 
-
-
 ## Pantalla de ajustes
-//TODO:
-Queda pendiente remodelar completamente esta pantalla.
+Queda pendiente remodelar completamente esta pantalla. Ahora mismo está muy escueta, cada elemento a la izquierda de la pantalla de manera "bruta" y sin el suficiente contraste entre elementos y fondo.
+
+Referencias:
+
+![settingsRefe](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/21815a5e-5069-45c6-b2be-214769fb5618)

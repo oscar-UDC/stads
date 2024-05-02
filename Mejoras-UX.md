@@ -14,7 +14,7 @@ Referencias:
 ## Columnas grandes para discernir mejor las pantallas de su fondo
 Nos hemos dado cuenta de que agrupando los elementos de, por ejemplo, las pantallas de Scores en una columna grande de color macizo, dichos elementos destacan más y son mas visibles.
 
-## Selección de niveles en cards propias con una imagen de previsualización
+## Selección de niveles en **cards** propias con una imagen de previsualización
 Ahora mismo en la pantalla de selección de niveles solamente se representa el número del nivel, sin quedar claro cuál jugarás al pulsar el botón. Proponemos sustituir la ristra de botones con números por un scroll con cards que contengan: 1. El nombre del juego en cuestión, 2. Una preview visual del contenido del nivel, y 3. Un botón para inicializar el nivel.
 
 La idea es pasar de este modelo:
@@ -35,3 +35,15 @@ Referencias:
 ## Contraste de los textos y legibilidad de los títulos.
 
 Podemos rodearlos con Surfaces o remodelarlos para que sean más comprensibles.
+
+## Boton flotante de volver atras.
+
+Ya que nuestra aplicación no tiene navegación la manera principal del usuario de volver es dandole al boton de volver atras. Vamos a poner ese boton como un elemento flotante que esta consistentemente en el mismo sitio de la aplicación.
+
+## Colores
+
+Vamos a revisar el uso de colores de la aplicación para que se use un sistema de colores con buen contraste. Y tambien vamos a permitir al usuario cambiar de temas (Modo oscuro o Modo claro).
+
+## Shapes
+
+Vamos a aplicar un redondeado suave a todas las figuras de la aplicación como cards o botones

@@ -31,14 +31,18 @@ Pagina de elección de nombre en el que el usuario escoge el nombre que aparecer
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c4f07c1a-bf3a-494e-b924-af67b87ebb8d)|
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/2e582abb-c0bb-4cb2-a537-43ceebe6ea40)| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/05b3830c-f070-4b01-b455-f57d32413c3e)|
+
+<!-- old images |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/08f3d5f4-c0a6-4a42-9dd0-a5c537c11df1) |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c4f07c1a-bf3a-494e-b924-af67b87ebb8d)| -->
 
 Pantalla principal desde la que el usuario podrá acceder al resto de funcionalidades de la aplicación.
 
 ### Ajustes
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-| ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/30098b7b-5b29-40f4-8d8d-ce0da27b65ef) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0) |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/030e3818-a993-4087-b35a-259e0379f7c9)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/8ca40c74-c147-4d7f-b71a-c295ebfb5156)|
+
+<!-- | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/30098b7b-5b29-40f4-8d8d-ce0da27b65ef) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/a1996222-0d55-42f6-9760-7a44c52068d0) | -->
 
 Pantalla donde el usuario realiza los ajustes de volumen tema e idioma de la aplicación
 
@@ -94,3 +98,7 @@ Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
 
 Pantalla que muestra que el usuario ha superado un nivel del selector de niveles.
+
+## Diagrama de Flujo entre las pantallas
+![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/7ad97a57-e450-4b2f-a70b-0505062c5cb5)
+

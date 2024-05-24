@@ -12,4 +12,4 @@ El acelerómetro es uno de los sensores más útiles para detectar el movimiento
 
 ## Brújula
 
-La brújula, o magnetómetro, es un sensor que detecta el campo magnético terrestre, ayudando a determinar la dirección cardinal en la que está orientado el dispositivo. Esto es especialmente ya que permite interacciones relacionadas con el entorno. La brújula complementa otros sensores como el GPS y el acelerómetro para proporcionar una experiencia de navegación precisa y confiable.
+La brújula, o magnetómetro, es un sensor que detecta el campo magnético terrestre, ayudando a determinar la dirección cardinal en la que está orientado el dispositivo. Esto es especialmente útil ya que permite interacciones relacionadas con el entorno. La brújula complementa otros sensores como el GPS y el acelerómetro para proporcionar una experiencia de navegación precisa y confiable.

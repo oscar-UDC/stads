@@ -24,7 +24,7 @@
 
 - [Multimedia](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Multimedia)
 
-- [Sensorica](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Sensorica)
+- [Sensorica](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Necesidades-sens%C3%B3ricas)
 
 ## Extras
 

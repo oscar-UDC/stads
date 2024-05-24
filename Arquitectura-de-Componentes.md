@@ -4,20 +4,27 @@
 - Punto de entrada: Arranque de aplicación cuando no hay usuario registrado.
 - Descripción: Este es un componente que solo aparece la primera vez y te permite registrarte con Google Play para guardar tu progreso.
 
-## Elegir nombre (Nickname)
-- Punto de entrada: Login.
-- Descripción: Este es un componente que solo aparece la primera vez y te permite seleccionar un nombre de usuario para que aparezca en la pantalla de 
-
 ## Menú principal
 - Punto de entrada: Arranque de aplicación (despues de haber quedado registrado el correo y nickname).
 - Descripción: Este es el menú inicial desde el que el usuario puede acceder al resto de pantallas.
+
+## Nivel (Level)
+- Punto de entrada: Selector de Niveles pulsando un botón cualquiera o Menú principal pulsando en jugar al modo infinito.
+- Descripción: UnityPlayerActivity al finalizar también invoca la terminación de la actividad que la ha llamado, por lo que es necesario tener una Activity intermediaria para poder volver correctamente a la pantalla esperada.
+
+# Fragments y Composeables
+
+Vamos a utilizar Jetpack Compose para toda la aplicación, lo que significa que todos los elementos de la interfaz de usuario serán Composeables. Un Composeable es similar a un fragment, por lo que los trataremos en esta sección.
+
+## Elegir nombre (Nickname)
+- Punto de entrada: Login.
+- Descripción: Este es un componente que solo aparece la primera vez y te permite seleccionar un nombre de usuario para que aparezca en la pantalla de 
 
 ## Highscores / Leaderboard
 - Punto de entrada: Menú principal.
 - Descripción: Estos dos componente los vamos a implementar con una misma activity y vamos a cargar datos distintos en funcion de lo que el usuario haya seleccionado.
 
 ![ScoresComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/aa7d7529-caa1-4a2e-a1ff-398b0aafbe89)
-
 
 ## Configuración (Settings)
 - Punto de entrada: Menú principal.
@@ -38,10 +45,6 @@
 
 ![LevelSelectorComentado](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1c6d5482-e001-4063-9ea7-7173e276584b)
 
-## Nivel (Level)
-- Punto de entrada: Selector de Niveles pulsando un botón cualquiera o Menú principal pulsando en jugar al modo infinito.
-- Descripción: UnityPlayerActivity al finalizar también invoca la terminación de la actividad que la ha llamado, por lo que es necesario tener una Activity intermediaria para poder volver correctamente a la pantalla esperada.
-
 ## Pantalla de victoria
 - Punto de entrada: Al superar un Nivel.
 - Descripción: Esta pantalla se muestra cuando el usuario ha terminado la partida.
@@ -49,10 +52,6 @@
 ## Pantalla de derrota
 - Punto de entrada: Al finalizar un Nivel.
 - Descripción: Esta pantalla se muestra cuando el usuario ha terminado la partida.
-
-# Fragments
-Para esta aplicación no es necesario realizar navegación entre distintas funcionalidades ya que tiene un conjunto de funcionalidades muy sencillo. Otras aplicaciones del mercado siguen el mismo modelo de pantallas individuales para cada lugar distinto.
-
 
 # Servicios
 

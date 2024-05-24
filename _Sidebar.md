@@ -22,6 +22,10 @@
 
 - [Mejoras UX](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Mejoras-UX)
 
+- [Multimedia](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Multimedia)
+
+- [Sensorica](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Sensorica)
+
 ## Extras
 
 - [Guia Unity](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)

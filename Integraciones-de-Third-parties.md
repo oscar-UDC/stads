@@ -1,4 +1,4 @@
-# **Autenticación **- Firebase Authentication
+# Autenticación - Firebase Authentication
 
 Vamos a integrar el sistema de autenticación de Firebase en nuestra aplicación
 
@@ -8,7 +8,7 @@ Firebase permite autenticarse de varias maneras
 
 En nuestro caso vamos a utilizar la autenticación de Google, pero vamos a dejar habilitados los sistemas de autenticación mediante correo y contraseña y en modo anónimo por si son necesarios en un futuro
 
-# **Almacenamiento externo** - Firebase Firestore
+# Almacenamiento externo - Firebase Firestore
 
 También vamos a usar la base de datos NoSQL que nos ofrece Firebase. 
 

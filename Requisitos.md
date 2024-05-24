@@ -32,24 +32,20 @@ En el apartado de Level Design se especifican los niveles a desarrollar, esta li
 
 ### Comunicaciones
 
+- Unity. Engine sobre en que se desarrollarán los minijuegos. Se hará uso de un servidor basado en sockets para intercambiar informacion entre ambos.
+- Firebase OAuth. Auntenticación de los usuarios en la app.
+- Firabase Storage. Guardado en la nube de nicknames y highscores 
 
 ## Tareas No Críticas
 
-- Unity. Game engine sobre el que se va a desarrollar los puzzles del juego.
-- Magnetometro. Para puzzles que dependan de la orientación del dispositivo.
-- Giroscopio. Para puzzles que incluyan rotación des dispositivo.
-- Sensor presión atmosferica. Para puzzles que requiran cambios de altitud.
-- Autenticación para recuperar datos del usuario (highscore, logros)
+- Integración de Magnetometro. Para puzzles que dependan de la orientación del dispositivo.
+- Integración de Giroscopio. Para puzzles que incluyan rotación des dispositivo.
+- Integración de Sensor presión atmosferica. Para puzzles que requiran cambios de altitud.
 - Leaderboard para comparar puntuciones entre usuarios
-- Compartir en redes sociales highscores
 
 # Level Design
 
 Lista de los potenciales niveles que se van a desarrollar para la aplicación.
-
-## Level Placeholder
-- Sensores necesarios: Ninguno
-- Breve descripción: 
 
 ## Level Sopa de letras
 - Sensores necesarios: Ninguno
@@ -78,8 +74,8 @@ Lista de los potenciales niveles que se van a desarrollar para la aplicación.
 ## Level Rompe la pared
 - Sensores necesarios : acelerómetro
 - Breve descripción : En este nivel se le pedirá al usuario que agite el teléfono para "derribar" una pared tras la que se esconde el botón de cerrar ad
-## Level saca foto a objeto de color
 
+## Level saca foto a objeto de color
 - Sensores necesarios : Cámara
 - Breve descripción : En este nivel se le pedirá al usuario que haga una foto de un objeto de color x para que aparezca el boton de cerra el ad
 

@@ -11,7 +11,7 @@ Dentro de Android Room, se almacena la puntuación local del usuario en la base 
 - Puntuación obtenida en la partida.
 - Duración de la partida.
 
-**Datastore**
+**Datastore de configuración**
 
 En cuanto al Datastore de Android, se guardan las opciones locales de la aplicación, que incluyen:
 
@@ -19,12 +19,16 @@ En cuanto al Datastore de Android, se guardan las opciones locales de la aplicac
 - Idioma de la aplicación.
 - Tema de color.
 
-**Datastore**
+**Datastore de autenticacion**
 
 También se alamcenará como una serie de claves valor la siguiente información:
 
 - Clave: Id del usuario (obtenido mediante Firebase Auth)
 - Valor: Nickname escogido por el usuario.
+
+**Datastore de Unity**
+
+Dado que Unity finaliza el proceso de la aplicación se pierde el estado por eso se ha decidido almacenar el ultimo estado del juego lo que permitirá a la aplicación enrutar al usuario a la pantalla adecuada (victoria, derrota, etc)
 
 ## Almacenamiento externo
 

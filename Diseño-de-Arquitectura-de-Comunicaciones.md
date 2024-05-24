@@ -9,7 +9,7 @@
 - MainMenu: Menu principal desde el que se puede acceder al modo estandar, selector de niveles, leaderboards y highscores, 
 - Highscores: Base de datos local que almacena los records personales.
 - Autenticación: Permite recuperar los datos de usuarios para mantener el progreso en caso de desinstalar, instalar en otro dispositivo
-- Gestion de sensorica: Para independizar la aplicación de los posibles cambios de sensores entre diferentes teléfonos se dispondrá de una clase intermediaria para su gestión. Sensores a gestionar:
+- Gestion de sensorica: Se hará uso de sensores a través de la API de Unity
 	* Camara
 	* Brújula
 	* Giroscopio

@@ -123,7 +123,13 @@ Usamos un ViewModel llamado HighScoreViewModel que conecta con el backend, para 
 
 - El juego de Unity mandará datos sobre la partida del jugador que se guardarán en la Android Room y el backend. Las llamadas al API pueden relentizar el procesaminedo de datos del Servidor de Unity (UnityBridge) por lo que se ejecutara en una corrutina de GlobalScope. Se liberarán recursos tan pronto de hallan guardado datos en la Android Room y el backend o ocurra un error, por lo que una GlobalScope es adecuada para realizar el trabajo.
 
+## Corrutinas de actualizacion de scores
 
+- Cuando el jugador termine una partida se realizará una corrutina para actualizar las puntuaciones globales (si la puntuación supera el record anterior) y locales
+
+## Corrutinas de autenticación
+
+- Vamos a usar corrutinas para recuperar datos como el nickname en la pantalla del menú principal y para almacenar el usuario mientras el usuario selecciona su nickname la primera vez que se registra
 
 
 

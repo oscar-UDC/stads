@@ -26,6 +26,8 @@
 
 - [Sensorica](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Necesidades-sens%C3%B3ricas)
 
+- [Lean Canvas](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Lean-Canvas)
+
 ## Extras
 
 - [Guia Unity](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)

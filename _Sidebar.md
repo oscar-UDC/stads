@@ -26,7 +26,7 @@
 
 - [Sensorica](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Necesidades-sens%C3%B3ricas)
 
-- [Lean Canvas](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Lean-Canvas)
+- [Modelo de negocio](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Modelo-de-negocio)
 
 ## Extras
 

@@ -58,6 +58,7 @@ Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/3ace39a2-b516-4b3f-b3bc-6f7fadf1e051)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/579e69ec-4d95-4c48-a0b7-5080c015403c)|
 
 
 <!-- |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) | -->
@@ -70,7 +71,7 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/640d9246-d82f-42f0-8817-dcbb691e4977)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/29669fd0-e61d-485c-8fa2-6d233ac4497d)|
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/32eeb633-1f42-49d0-96e1-63f60831d103)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/29669fd0-e61d-485c-8fa2-6d233ac4497d)|
 
 
 <!--|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |-->

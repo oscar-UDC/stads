@@ -58,8 +58,7 @@ Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/3ace39a2-b516-4b3f-b3bc-6f7fadf1e051)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/579e69ec-4d95-4c48-a0b7-5080c015403c)|
-
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/4fd96253-adef-4eed-a2d1-ab9321523bd4)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/0370aa5c-2a60-4bd8-adb1-99af09beb546)|
 
 <!-- |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) | -->
 

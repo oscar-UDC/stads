@@ -58,7 +58,9 @@ Ejemplo de una pantalla de puzle que es usuario tendrá que resolver. Es posible
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) |
+
+
+<!-- |![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/0520a5b4-5562-42ef-9e33-ebffb9ec5383) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71868889/1d5bf8d0-290a-4d33-904b-52dd89c41609) | -->
 
 
 
@@ -68,7 +70,10 @@ Pantalla con el selector de niveles, en la que los usuarios podrán rejugar puzl
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/640d9246-d82f-42f0-8817-dcbb691e4977)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/29669fd0-e61d-485c-8fa2-6d233ac4497d)|
+
+
+<!--|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/d9e371a8-57ad-4657-9cb7-6bfba555cf70) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/f03c345e-8196-4f2f-b8c2-e77ecc44fde7) |-->
 
 
 Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
@@ -77,11 +82,24 @@ Pantalla que muestra la puntuazión del usuario frente al resto de jugadores.
 
 | Mockup teléfono       | Mockup Tablet            |
 | :-------------------: | :----------------------: |
-|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/1b0d60f7-bbe0-43a8-8278-2d51fe58ab89) |
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/91d5ddd4-213c-4560-b577-fc6c1ebe6a49)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/897be8f9-9810-4e4d-a204-15a7a059b130)|
+
+<!--|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/72018929/958fe224-9e7f-4d48-a18e-6db31653819a) | ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/1b0d60f7-bbe0-43a8-8278-2d51fe58ab89) |-->
 
 
 Pantalla que muestra los records del usuario en el modo de juego principal.
 
+
+### Pantalla de puntuación final
+
+| Mockup teléfono       | Mockup Tablet            |
+| :-------------------: | :----------------------: |
+|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/7fc0cedf-3020-494c-ab05-999b5b9bf27d)|![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/c54a6a2e-7ba0-462f-811c-59379667a9dd)|
+
+Pantalla que muestra la puntuación al final de la partida.
+
+
+<!--
 ### Pantalla de derrota
 
 | Mockup teléfono       | Mockup Tablet            |
@@ -98,6 +116,13 @@ Pantalla que muestra que el usuario ha perdido en el modo de juego normal.
 
 
 Pantalla que muestra que el usuario ha superado un nivel del selector de niveles.
+-->
+
+## Ejemplo de pantallas en modo oscuro
+| Mockup teléfono       | Mockup Tablet            |
+| :-------------------: | :----------------------: |
+|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/93e6c4f8-99fe-4d66-8fff-c924421def36)|![imagen](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/4177345f-78a2-49ea-aba5-6c3d61c52fa5)|
+
 
 ## Diagrama de Flujo entre las pantallas
 ![image](https://github.com/Diego-a-lopez/ScapeTheAds/assets/71869193/7ad97a57-e450-4b2f-a70b-0505062c5cb5)

@@ -9,9 +9,18 @@ A continuación se detallan el reparto de roles y de funcionalidades para el des
 	- UI/UX
 - Tareas realizadas
 	- Pantallas
+		- Leaderboard/Highscores
+		- Home
+		- Settings
 	- Funcionalidades
+		- Theme (oscuro/claro,  Cambio de tema dinámico con el tema del dispositivo)
+		- Idioma (Asociar el cambio de idioma desde la pantalla settings a la variable DataStore)
+		- Implementación de la base de datos para guardar los scores locales  (AndroidRoom)
+		- Musica (Añadir música y linkearlo con las preferencias locales de DataStore y gestionar que se pause o haga release)
+		- Componentes generales (cardColumnBackground y Botones)
+		- Server API REST (abandonado y cambiado por firestore)
 	- Minijuegos
-
+		- Shake Level / Rompe muros (acelerómetro)
 ## CTO (Responsable de tecnologías no-Android)
 - Encargado: Daniel Silva Iglesias
 - Roles

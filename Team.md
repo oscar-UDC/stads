@@ -29,8 +29,8 @@ A continuación se detallan el reparto de roles y de funcionalidades para el des
 		- Navegación de la aplicación
 		- Estructuración de la aplicación en Composeables, Activities y Services
 		- Almacenamiento en local (Nicknames y Game State)
-		- Almacenamiento externo (Firebase Storage)
-		- Integración con Firebase (OAuth y Storage)
+		- Almacenamiento externo (Firebase Firestore)
+		- Integración con Firebase (OAuth y Firestore)
 		- Mejoras UI/UX (Iconos, fuente, imágenes, i18n, figuras custom)
 		- Primer juego de Unity con sensores
 		- Integración Unity-Android

@@ -17,8 +17,10 @@ A continuación se detallan el reparto de roles y de funcionalidades para el des
 		- Idioma (Asociar el cambio de idioma desde la pantalla settings a la variable DataStore)
 		- Implementación de la base de datos para guardar los scores locales  (AndroidRoom)
 		- Musica (Añadir música y linkearlo con las preferencias locales de DataStore y gestionar que se pause o haga release)
-		- Componentes generales (cardColumnBackground y Botones)
+		- Puntuaciones locales
+		- Componentes generales de utils (CardColumnBackground, Texto, Botones...)
 		- Server API REST (abandonado y cambiado por firestore)
+		- Documentación (asistente // Mockups, Segmento de mercado, Sensorica, Modelo de negocio,  Problemas de Denpendencias)
 	- Minijuegos
 		- Shake Level / Rompe muros (acelerómetro)
 ## CTO (Responsable de tecnologías no-Android)

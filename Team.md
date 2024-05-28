@@ -34,7 +34,7 @@ A continuación se detallan el reparto de roles y de funcionalidades para el des
 		- Mejoras UI/UX (Iconos, fuente, imágenes, i18n, figuras custom)
 		- Primer juego de Unity con sensores
 		- Integración Unity-Android
-		- Guías para la integración del juego en Android
+		- Guías para la integración del juego en [Android](https://github.com/Diego-a-lopez/ScapeTheAds/wiki/Gu%C3%ADa-para-embeber-juegos-de-Unity-(como-librer%C3%ADas)-en-Android-nativo)
 		- Documentación
 		- Puntuaciones globales
 		- Arreglo de bugs

@@ -10,7 +10,6 @@
 - Highscores: Base de datos local que almacena los records personales.
 - Autenticación: Permite recuperar los datos de usuarios para mantener el progreso en caso de desinstalar, instalar en otro dispositivo
 - Gestion de sensorica: Se hará uso de sensores a través de la API de Unity
-	* Camara
 	* Brújula
 	* Giroscopio
 	* Acelerómetro

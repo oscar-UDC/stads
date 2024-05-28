@@ -67,12 +67,13 @@ A continuación se detallan el reparto de roles y de funcionalidades para el des
 		- Defeat
 		- Victory
 	- Funcionalidades
+		- Arquitectura y documentación Unity
 		- BombTimer: escena de Unity que controla el tiempo que transcurre hasta que se pierde el juego
 		- GameHandler: escena que gestiona la carga de las distintas escenas de juegos. Aleatorización de la selección de niveles en el modo infinito. Selección de nivel concreto en el modo selección de nivel
 		- Soporte en la creación del servicio de conexión con Unity (UnityBridge)
 		- DataStore preferences: implementacion de DataStore para la gestión de las variables de los ajustes
 	- Minijuegos
-		-Compass game (brújula)
+		- Compass game (brújula)
 
 
 
